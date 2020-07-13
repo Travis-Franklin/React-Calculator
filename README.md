@@ -1,1 +1,1 @@
-This will be a calucalot built in React to further develop my command of the lanuguage. 
+This will be a calucalotor built in React to further develop my command of the lanuguage. 
