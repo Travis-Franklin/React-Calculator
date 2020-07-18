@@ -3,7 +3,9 @@ import React from 'react';
 class Math extends React.Component{
     constructor(props){
         super(props);
-        console.log("fuck yes");
+        return(
+            <h1> Hello</h1>
+        )
     }
 };
 
